@@ -1,0 +1,4 @@
+﻿  plot.cpp
+C:\Users\bonni\Desktop\CS31\Project3\Project3\plot.cpp(143,28): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\bonni\Desktop\CS31\Project3\Project3\plot.cpp(272,20): warning C4018: '<': signed/unsigned mismatch
+  Project3.vcxproj -> C:\Users\bonni\Desktop\CS31\Project3\Debug\Project3.exe
